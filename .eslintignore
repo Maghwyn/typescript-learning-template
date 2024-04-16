@@ -1,0 +1,11 @@
+node_modules
+dist
+docker-compose.yml
+Dockerfile
+.gitignore
+.prettierrc
+package-lock.json
+package.json
+.env
+.env.example
+README.md
