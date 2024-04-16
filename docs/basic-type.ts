@@ -1,7 +1,6 @@
-// The boolean type represent either true or false, they're mostly used for flag
-
 import { randomInt } from "crypto";
 
+// The boolean type represent either true or false, they're mostly used for flag
 // Does this stuff is active, is the user admin, do i have the right to execute something ect.
 const isActive: boolean = true;
 
